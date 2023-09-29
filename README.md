@@ -1,2 +1,2 @@
 # exciting-squirrel
-One Page Responsive Portolio
+One Page Responsive Web Site
